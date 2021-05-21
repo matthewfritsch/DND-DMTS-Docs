@@ -3,13 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to DND-DM-Toolset Docs's documentation!
+Welcome to the DND-DM-Toolset Docs!
 ===============================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   gettingstarted
+   initiativequeue
+   diceroller
 
 
 Indices and tables
