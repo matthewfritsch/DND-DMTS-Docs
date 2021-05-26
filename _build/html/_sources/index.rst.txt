@@ -14,10 +14,3 @@ Welcome to the DND-DM-Toolset Docs!
    initiativequeue
    diceroller
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
