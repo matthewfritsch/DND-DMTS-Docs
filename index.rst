@@ -7,7 +7,7 @@ Welcome to the DND-DM-Toolset Docs!
 ===============================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 5
    :caption: Contents:
 
    gettingstarted
